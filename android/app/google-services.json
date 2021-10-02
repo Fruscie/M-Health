@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "919826581665",
+    "firebase_url": "https://contoh-ca6f9.firebaseio.com",
+    "project_id": "contoh-ca6f9",
+    "storage_bucket": "contoh-ca6f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919826581665:android:f9af4f49b26ed3fc2a88e0",
+        "android_client_info": {
+          "package_name": "com.example.mhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919826581665-4ebop0ro0i15mgd79qkmfdg3qcue31et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYUXCy9anjkuxFhWnD3XT4-3VInWrTQMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919826581665-4ebop0ro0i15mgd79qkmfdg3qcue31et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
